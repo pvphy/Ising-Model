@@ -1,5 +1,5 @@
 # Ising-Model
-gfortran code_name -lblas -llpack
+gfortran 1dising.f90 -lblas -llpack
 ./a.out &
 
 output= Magnetisation vs temprature
